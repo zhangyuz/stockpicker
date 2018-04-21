@@ -5,10 +5,10 @@
 
 __author__ = 'Zhang YuZ'
 
+
 class StockPicker(object):
     def __init__(self):
         print('StockPicker initialized!!!')
 
     def run(self):
         print("running!!!")
-
